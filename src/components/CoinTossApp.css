@@ -1,0 +1,31 @@
+.main-background{
+    background-image: linear-gradient(to right,#f9d423,#e2a139);
+    height: 100vh;
+}
+.coin-toss-container{
+    background-color: #ffffff;
+    width: 50%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    text-align: center;
+}
+img{
+    width: 50%;
+}
+.toss-coin-button{
+    background-color:  #f9d423;
+    color: #a35200;
+    border: 0px;
+    padding: 8px;
+    border-radius:5px;
+}
+.count-container{
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    /* text-align: center; */
+}
+.descript{
+    margin-right: 10px;
+}
