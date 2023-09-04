@@ -1,0 +1,15 @@
+.main-background{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/reviews-bg.png");
+    background-size: cover;
+    height: 100vh;
+    margin-top: 0px;
+}
+button{
+    background-color: transparent;
+    border: 0px;
+}
+.review-container{
+    display: flex;
+    flex-direction: row;
+
+}
